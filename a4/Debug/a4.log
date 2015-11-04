@@ -1,0 +1,3 @@
+﻿  a4.c
+f:\hagenberg\epr_ue\abgabe2\a4\a4.c(10): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'float'
+  a4.vcxproj -> F:\Hagenberg\EPR_UE\Abgabe2\Debug\a4.exe
